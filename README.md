@@ -16,9 +16,11 @@ I am also interested in studying:
 - holographic tensor networks
 - the von Neumann algebra as a formal description of quantum entanglement
 
-I have basic knowledge on these topics but have no prior experience working on them.
+I have basic knowledge of these topics but have no prior experience working on them.
 
 ## On the Side
 
-I am a GNU/Linux user. I am an "impure" Arch Linux user since I subscribe to the Manjaro repository for stability.
-Recently I am enchanted by the pureness of Nix and I actively use Nix as a major package manager.
+I am a GNU/Linux user and a free software enthusiast.
+- I am an "impure" Arch Linux user since I subscribe to the Manjaro repository for stability.
+- Recently I have been enchanted by the pureness of Nix and I actively use Nix as a major package manager.
+- I enjoy Mathematica, Python and Rust but I am only an amateur in programming.
