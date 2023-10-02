@@ -21,6 +21,6 @@ I have basic knowledge of these topics but have no prior experience working on t
 ## On the Side
 
 I am a GNU/Linux user and a free software enthusiast.
-- I am an "impure" Arch Linux user since I subscribe to the Manjaro repository for stability.
-- Recently I have been enchanted by the pureness of Nix and I actively use Nix as a major package manager.
-- I enjoy Mathematica, Python and Rust but I am only an amateur in programming.
+- I am an "impure" **Arch Linux** user since I subscribe to the **Manjaro** repository for stability.
+- Recently I have been enchanted by the pureness of **Nix** and I actively use Nix as a major package manager.
+- I enjoy **Mathematica, Python and Rust** but I am only an amateur in programming.
