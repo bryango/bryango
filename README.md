@@ -16,7 +16,7 @@ I am also interested in studying:
 - holographic tensor networks
 - the von Neumann algebra as a formal description of quantum entanglement
 
-I have basic knowledge of these topics but have no prior experience working on them.
+I have basic knowledge of these topics but have not much experience working on them.
 
 ## On the Side
 
